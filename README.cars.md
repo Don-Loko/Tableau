@@ -36,7 +36,7 @@ seller: Sprzedawca pojazdu.
 
 saledate: Data sprzedaży.
 
-Brad 1, body, model, year: Marka, model, budowa oraz rocznik pojazdu.
+Brand 1, body, model, year: Marka, model, budowa oraz rocznik pojazdu.
 
 Dashboard i jego elementy
 
