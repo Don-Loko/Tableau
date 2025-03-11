@@ -1,0 +1,95 @@
+Analiza czynników wpływających na wyniki egzaminacyjne uczniów
+
+Opis projektu
+
+Dashboard stworzony w Tableau przedstawia analizę czynników, które mogą wpływać na wyniki egzaminacyjne uczniów. Celem jest identyfikacja kluczowych elementów mających największy wpływ na osiągane przez uczniów wyniki. Analiza ta może pomóc szkołom oraz instytucjom edukacyjnym w poprawie strategii nauczania oraz podejmowaniu trafnych decyzji administracyjnych.
+
+Niektóre wykresy na dashboardzie pełnią również funkcję interaktywnych filtrów, umożliwiając użytkownikowi dogłębniejszą eksplorację danych.
+
+Źródło danych 
+
+Źródło: Kaggle
+
+Liczba rekordów: 6608
+
+Liczba kolumn: 20
+
+Dane wykorzystane w analizie
+
+Wymiary
+
+Dostęp do zasobów
+
+Odległość od domu do dodatkowych zajęć
+
+Dochód rodziny
+
+Płeć
+
+Frekwencja ucznia
+
+Dostęp do internetu
+
+Trudności w uczeniu się
+
+Poziom motywacji
+
+Wykształcenie rodziców
+
+Zaangażowanie rodziców
+
+Wpływ rówieśników
+
+Poziom aktywności fizycznej
+
+Typ szkoły
+
+Jakość nauczycieli
+
+Miary
+
+Wynik egzaminu
+
+Liczba godzin nauki
+
+Aktywność fizyczna
+
+Wyniki wcześniejszych egzaminów
+
+Liczba godzin snu
+
+Liczba sesji korepetycji
+
+Elementy dashboardu
+
+Średni wynik egzaminu a liczba godzin nauki: Analiza zależności pomiędzy czasem poświęconym na naukę a wynikami egzaminacyjnymi.
+
+Porównanie wyników egzaminów według środowiska edukacyjnego: Analiza wyników ze względu na typ szkoły, jakość nauczania oraz dochód rodziny.
+
+Wpływ zaangażowania rodziców i frekwencji: Heatmapa pokazująca łączny wpływ frekwencji oraz zaangażowania rodziców na wyniki egzaminacyjne.
+
+Wpływ aktywności fizycznej i snu na wyniki: Analiza zależności między czasem snu, poziomem aktywności fizycznej a wynikami egzaminacyjnymi.
+
+Wpływ zaangażowania rodziców na wyniki egzaminacyjne: Szczegółowa analiza wpływu poziomu zaangażowania rodziców.
+
+Wpływ odległości od domu oraz uczestnictwa w zajęciach pozalekcyjnych na wyniki: Porównanie wyników egzaminacyjnych w kontekście dystansu od domu i udziału w zajęciach dodatkowych.
+
+Wyniki i obserwacje
+
+Czas poświęcony na naukę istotnie wpływa na wyniki egzaminacyjne – uczniowie, którzy poświęcają więcej godzin na naukę, osiągają średnio lepsze rezultaty.
+
+Zaangażowanie rodziców oraz wysoka frekwencja ucznia pozytywnie korelują z wynikami – uczniowie ze wsparciem rodziców oraz dobrą frekwencją osiągają wyraźnie lepsze wyniki niż pozostali.
+
+Środowisko edukacyjne oraz dochód rodziny mają znaczący wpływ na wyniki – uczniowie z rodzin o wyższych dochodach lub uczęszczający do szkół prywatnych zwykle uzyskują nieznacznie lepsze rezultaty.
+
+Dystans od miejsca zamieszkania do zajęć dodatkowych nie zawsze negatywnie wpływa na wyniki – dla uczniów uczestniczących w dodatkowych zajęciach odległość wydaje się mieć ograniczone znaczenie, choć bliższe położenie nieznacznie sprzyja lepszym rezultatom.
+
+Liczba godzin snu oraz aktywność fizyczna mają umiarkowany wpływ na wyniki uczniów – zbyt mała liczba godzin snu oraz bardzo niska aktywność fizyczna mogą mieć negatywny wpływ na efektywność nauki.
+
+Dashboard dostępny jest publicznie na Tableau Public:
+
+👉 Otwórz dashboard – 
+
+Autor
+
+Piotr Kosidlak
