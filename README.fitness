@@ -1,0 +1,70 @@
+Analiza danych treningowych i parametrów zdrowotnych użytkowników siłowni
+Opis projektu
+Dashboard wykonany w Tableau przedstawia analizę danych treningowych oraz parametrów zdrowotnych użytkowników siłowni. Głównym celem projektu jest identyfikacja kluczowych czynników wpływających na efektywność treningów oraz monitorowanie postępów zdrowotnych ćwiczących osób.
+
+Analiza bazuje na zbiorze danych liczącym 974 rekordy, który został zaczerpnięty z ogólnodostępnych zasobów serwisu Kaggle. Dane oryginalnie zawierały 14 kolumn, jednak na potrzeby analizy zostały wzbogacone o dodatkowe, stworzone na podstawie istniejących parametrów.
+
+Niektóre wykresy na dashboardzie pełnią rolę interaktywnych filtrów, umożliwiając dokładniejszą eksplorację danych oraz indywidualizację wyników analizy.
+
+Opis danych użytych w projekcie
+Wymiary:
+Grupa zaawansowania
+Płeć
+Typ treningu
+Grupy FFMI (Fat-Free Mass Index)
+Poziom tkanki tłuszczowej (grupowany)
+Data osiągnięcia celu
+Miary:
+Wiek
+BMI
+Wzrost (m)
+Waga (kg)
+Poziom tkanki tłuszczowej (%)
+Beztłuszczowa masa ciała (FFM)
+FFMI ogólny
+FFMI (dla kobiet oraz mężczyzn oddzielnie)
+Średnie i maksymalne BPM (uderzenia serca na minutę)
+Spoczynkowe BPM
+Różnica BPM (Delta BPM)
+Czas trwania sesji treningowej (godziny)
+Tygodniowa częstotliwość treningów (dni w tygodniu)
+Doświadczenie treningowe (lata)
+Spalone kalorie
+Tygodniowe spalanie kalorii
+Dzienne spożycie wody (litry)
+Tygodnie do osiągnięcia docelowego poziomu FFMI
+Przyrost FFMI tygodniowy
+Elementy dashboardu:
+Dashboard składa się z wykresów analizujących między innymi:
+
+Wpływ częstotliwości treningów na zmiany FFMI – analiza dynamiki wzrostu masy mięśniowej.
+
+Zależność między poziomem tkanki tłuszczowej a BMI – analiza parametrów zdrowotnych użytkowników.
+
+Analiza tętna (BPM) w trakcie sesji treningowych – średnie, maksymalne i spoczynkowe BPM.
+
+Zależność między typem treningu a spalonymi kaloriami – porównanie efektywności różnych typów treningów.
+
+Analiza czasu osiągania celów treningowych – czas wymagany do osiągnięcia założonych wyników zdrowotnych.
+
+Profil użytkownika ze względu na poziom doświadczenia treningowego – szczegółowe charakterystyki grup ćwiczących.
+
+Wnioski z analizy:
+
+Regularność treningów istotnie zwiększa efektywność – osoby trenujące regularnie szybciej osiągają cele związane ze zmianą FFMI.
+
+Typ treningu ma kluczowe znaczenie dla spalania kalorii – treningi o wysokiej intensywności generują znacznie wyższe spalanie kalorii.
+
+Zaawansowanie oraz doświadczenie wpływają na tempo osiągania celów – osoby bardziej doświadczone szybciej osiągają zaplanowane efekty zdrowotne i treningowe.
+
+Kontrola parametrów zdrowotnych (BMI, FFMI, poziom tłuszczu) pomaga precyzyjnie monitorować postępy – regularna analiza tych parametrów pozwala na skuteczniejsze planowanie treningów.
+
+Cel projektu:
+Głównym celem dashboardu jest wspieranie trenerów fitness, klubów sportowych oraz samych ćwiczących w monitorowaniu postępów treningowych oraz zdrowotnych, a także ułatwienie podejmowania decyzji treningowych na podstawie precyzyjnej analizy danych.
+
+Dashboard dostępny jest publicznie na Tableau Public:
+
+👉 Otwórz dashboard – [projekt siłowniowy] (https://public.tableau.com/app/profile/piotr.kosi/vizzes)
+
+Autor:
+Piotr Kosidlak
